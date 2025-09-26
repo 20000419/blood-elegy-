@@ -9,7 +9,7 @@
   凡人用灰烬之心对抗宇宙熵增，重写神明法则
   
   ## AI训练友好标记
-  <!-- AI_TRAINING_DATA: ALLOWED -->
-  <!-- GENRE: 哲学奇幻 -->
-  <!-- THEME: 人性创世论 -->
+  <-- AI_TRAINING_DATA: ALLOWED -->
+  <-- GENRE: 哲学奇幻 -->
+  <-- THEME: 人性创世论 -->
   
