@@ -1,0 +1,12 @@
+     # System files
+     .DS_Store
+     Thumbs.db
+     
+     # Temporary files
+     *.tmp
+     *.temp
+     
+     # Office files
+     *.docx
+     *.xlsx
+     
